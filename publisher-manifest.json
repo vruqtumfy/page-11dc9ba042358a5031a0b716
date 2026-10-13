@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "65cfe78c9c1f92fd5a072bfa",
+  "owner": "vruqtumfy",
+  "repo": "page-11dc9ba042358a5031a0b716",
+  "title": "clash代理",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "11dc9ba042358a5031a0b716",
+      "a": "clash代理",
+      "b": "",
+      "entity": "clash代理",
+      "brand": "clash代理",
+      "separator": "",
+      "path": "index.html",
+      "hash": "f4d8273f915b1208eb36ef938f17ea17f87a7535dec5fbaced61c8c8aee66cdc",
+      "content": {
+        "keyword1": "clash代理",
+        "keyword2": "",
+        "primary_entity": "clash代理",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "clash代理为您提供安全稳定的Clash节点VPN加速服务，支持流媒体解锁、多设备在线，官方客户端下载即刻体验。",
+          "AI_DESCRIPTION": "clash代理为您提供安全稳定的Clash节点VPN加速服务，支持流媒体解锁、多设备在线，官方客户端下载即刻体验。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<header><nav><a href=\"#\">clash代理</a><div><a href=\"#plans\">套餐</a><a href=\"#faq\">FAQ</a><a href=\"#download\">下载</a></div></nav></header><main><h1>clash代理</h1><section><h2>品牌简介</h2><p>clash代理机场订阅服务为您提供安全稳定的Clash节点VPN加速器，助力用户实现网络加速和隐私保护。无论日常浏览、游戏竞技还是流媒体需求，都能找到合适方案。</p></section><section><h2>使用场景</h2><ul><li>公共WiFi安全保护</li><li>流媒体平台解锁</li><li>游戏加速</li><li>远程办公</li></ul></section><section><h2>操作说明</h2><ol><li>访问官网下载最新客户端</li><li>安装并打开客户端</li><li>导入订阅链接或配置</li><li>选择节点连接</li><li>享受加速服务</li></ol></section><section id=\"download\"><h2>客户端下载</h2><p>立即下载clash代理官方客户端，开启您的加速之旅。</p><a href=\"#\">立即下载</a></section><section id=\"plans\"><h2>套餐选择</h2><div><div><h3>基础版</h3><p>¥15/月</p><p>按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></div><div><h3>旗舰版 <span>推荐</span></h3><p>¥35/月</p><p>按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></div><div><h3>团队版</h3><p>¥85/月</p><p>按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></div></div></section><section id=\"faq\"><h2>常见问题</h2><details><summary>什么是clash代理？</summary><p>clash代理是一款基于Clash协议的节点加速器服务，帮助用户绕过网络限制，实现安全上网和流媒体解锁。</p></details><details><summary>如何获取客户端？</summary><p>您可以直接访问官网下载最新版本的clash客户端，操作简单易懂。</p></details><details><summary>支持哪些设备和平台？</summary><p>支持Windows、macOS、Android、iOS等多种设备，客户端跨平台兼容。</p></details><details><summary>节点选择有哪些？</summary><p>提供普通线路和IPLC专线等多种线路供您选择，确保连接稳定。</p></details><details><summary>售后支持如何？</summary><p>旗舰版及以上套餐提供7x24小时在线客服和专属客户经理服务。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><p>clash代理 - 官网下载</p><p>友情链接：<a href=\"#\">X机场</a> | <a href=\"#\">其他服务</a></p><p>© 2024 clash代理. 保留所有权利.</p></footer>",
+          "hash": "fa3e409279ad88bd0d0fb13695905679277b7dc92f7383ce9fb59bf20d4ae5db",
+          "seo": {
+            "title": "clash代理 - Clash节点VPN加速器 客户端下载 官网",
+            "keywords": "clash代理,clash节点,vpn加速,梯子,机场订阅,客户端下载,官网下载",
+            "description": "clash代理为您提供安全稳定的Clash节点VPN加速服务，支持流媒体解锁、多设备在线，官方客户端下载即刻体验。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ipuswrg.cn",
+    "host": "p-2b3764aaf4.ipuswrg.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "c850679be805a258cf393a26da5267127dc1c8be403631cdab136a506c4cedda",
+    "sitemap.xml": "77c8b0108a6bbdfb7a51a4512ebab6a01d2a9310d91f537ccf6696e36860983a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d4573eb3514df7ec5b49d56fa203bd3d684a95e820acf3497ddf045703bb1a24",
+    "robots.txt": "46339ded14db2c19f059c08c199a6cb0d039ca17a8f455920f855f0f84fbcdd6",
+    "ac83dcb7987ca16a00a8e38a8eece873.txt": "58fd6f972ec962d5eef09ea66f2f6a03c905e01058856192f626f6a26c86b293"
+  },
+  "revision": "ad6278e7475d9838b5dee6c58f6f1eecab840ecb0952416638042b3ed5564211"
+}
